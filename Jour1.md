@@ -6,15 +6,15 @@
 - Étape 01: KM 0 à Thonon (46.373212, 6.478129)
 - Étape 02: La Baume
 - Étape 03: Les Gets
-- Étape 04: Col des Gets
+- Étape 04: [Col des Gets (1163 m)](https://www.routedesgrandesalpes.com/grands-cols/col-des-gets)
 - Étape 05: Cluse
 - Étape 06: Le Reposoir
-- Étape 07: Col de la Colombière
+- Étape 07: [Col de la Colombière (1613m)](https://www.routedesgrandesalpes.com/grands-cols/col-de-la-colombiere)
 - Étape 08: Les Sixt
 - Étape 09: La Clusaz
-- Étape 10: Col des Aravis
+- Étape 10: [Col des Aravis (1486 m)](https://www.routedesgrandesalpes.com/grands-cols/col-des-aravis)
 - Étape 11: Flumet
-- Étape 12: Col des Saisies
+- Étape 12: [Col des Saisies (1658 m)](https://www.routedesgrandesalpes.com/grands-cols/col-des-saisies)
 - **Arrivée: Beaufort**
 
 ## Distance
