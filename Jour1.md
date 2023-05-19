@@ -1,7 +1,6 @@
-# Jour 1
+# Road book
 
-## Road book
-
+## Ittinéraire:
 - **Départ : Domicile**
 - Metting: Forel (Station-shop Jubin) : 46.52953920748138, 6.7698977799827835
 - Étape 1: KM 0 à Thonon (46.373212, 6.478129)
@@ -18,15 +17,14 @@
 - Étape 12: Col des Saisies
 - **Arrivée: Beaufort**
 
-### Distance
-
+## Distance
 256 km (depuis Aumont)
 
-### Lien Calimoto
-
+## Lien Calimoto
 https://calimoto.com/calimotour/rga-jour-1-r-tkofsgu1uK
 
-## Road book bonus
+# Bonus
+## Ittinéraire:
 
 - Départ : Beaufort
 - Etape 1: Barrage St Guérin
@@ -34,18 +32,15 @@ https://calimoto.com/calimotour/rga-jour-1-r-tkofsgu1uK
 - Étape 3: Barrage de la Gittaz
 - Arrivée: Beaufort
 
-### Distance
-
+## Distance
 41 km
 
 ### Lien Calimoto
-
 https://calimoto.com/calimotour/rga-jour-1-bonus-r-H4JK4hMQyS
 
-## Hôtel
-
+# Hôtel
 - Nom: Hôtel du Grand Mont
-- Adresse: +33 04 79 38 33 36
-- Téléphone: 4 Place de l'Eglise
+- Adresse: 4 Place de l'Eglise
+- Téléphone: +33 04 79 38 33 36
 - Tarif: Chambre double à partir de 90 €.
-- Site web: https://www.lebeaufortain.com/fiches/hotel-du-grand-mont/
+- Site web: https://www.lebeaufortain.com/fiches/hotel-du-grand-mont
