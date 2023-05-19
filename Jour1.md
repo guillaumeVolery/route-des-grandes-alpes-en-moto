@@ -2,16 +2,16 @@
 
 ## Ittinéraire:
 - **Départ : Domicile**
-- Metting: Forel (Station-shop Jubin) : 46.52953920748138, 6.7698977799827835
-- Étape 1: KM 0 à Thonon (46.373212, 6.478129)
-- Étape 2: La Baume
-- Étape 3: Les Gets
-- Étape 4: Col des Gets
-- Étape 5: Cluse
-- Étape 6: Le Reposoir
-- Étape 7: Col de la Colombière
-- Étape 8: Les Sixt
-- Étape 9: La Clusaz
+- Metting : Forel (Station-shop Jubin) : 46.52953920748138, 6.7698977799827835
+- Étape 01: KM 0 à Thonon (46.373212, 6.478129)
+- Étape 02: La Baume
+- Étape 03: Les Gets
+- Étape 04: Col des Gets
+- Étape 05: Cluse
+- Étape 06: Le Reposoir
+- Étape 07: Col de la Colombière
+- Étape 08: Les Sixt
+- Étape 09: La Clusaz
 - Étape 10: Col des Aravis
 - Étape 11: Flumet
 - Étape 12: Col des Saisies
@@ -35,7 +35,7 @@ https://calimoto.com/calimotour/rga-jour-1-r-tkofsgu1uK
 ## Distance
 41 km
 
-### Lien Calimoto
+## Lien Calimoto
 https://calimoto.com/calimotour/rga-jour-1-bonus-r-H4JK4hMQyS
 
 # Hôtel
