@@ -9,15 +9,19 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: create file list
-        id: files_list
         run: |
           mkdir output
-          echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:2.9
         with:
-          args: --output=output/result.pdf ${{ steps.files_list.outputs.files }}
-          
+          args: --output=output/Jour1.pdf Jour1.md
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=output/Jour2.pdf Jour2.md
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=output/Jour3.pdf Jour3.md
+
       - uses: actions/upload-artifact@v3
         with:
           name: output
