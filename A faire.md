@@ -1,3 +1,3 @@
 Col du Tende France -> Italie
 
-Monaco 3 routes corniches
+Monaco route des 3 corniches
