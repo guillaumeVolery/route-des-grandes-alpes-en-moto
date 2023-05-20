@@ -16,7 +16,7 @@
 320 km
 
 ## Lien Calimoto
-https://calimoto.com/calimotour/rga-jour-2-r-t6WO7g7Bc5
+https://calimoto.com/calimotour/rga-jour-2-r-RJ12LikqI0
 
 # Bonus
 ## Ittinéraire:
