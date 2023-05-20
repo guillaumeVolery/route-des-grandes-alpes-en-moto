@@ -41,6 +41,6 @@ https://calimoto.com/calimotour/rga-jour-1-bonus-r-H4JK4hMQyS
 # Hôtel
 - Nom: Hôtel du Grand Mont
 - Adresse: 4 Place de l'Eglise
-- Téléphone: +33 04 79 38 33 36
-- Tarif: Chambre double à partir de 90 €.
+- Téléphone: +33 (0)4 79 38 33 36
+- Tarif: Chambre double à partir de 90 €
 - Site web: https://www.lebeaufortain.com/fiches/hotel-du-grand-mont
