@@ -27,7 +27,7 @@ https://calimoto.com/calimotour/menton-→-col-saint-jean-r-P0EAK2Ygc1
 - Arrivée: xx
 
 ## Distance
-41 km
+x km
 
 ## Lien Calimoto
 https://calimoto.com/xxx
