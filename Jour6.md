@@ -5,8 +5,8 @@
 - Étape 01: Col des Cyclotouristes
 - Étape 01: Col du Pré
 - Étape 03: Col du Méraillet
-- Étape 03: Cornet de Roselend
-- Étape 04: Col du Petit-Saint-Bernard
+- Étape 03: [Cornet de Roselend (1968m)](https://www.routedesgrandesalpes.com/grands-cols/cormet-de-roselend)
+- Étape 04: [Col du Petit-Saint-Bernard (2188m)](https://www.routedesgrandesalpes.com/grands-cols/le-col-du-petit-saint-bernard) 
 - Étape 05: Aosta
 - Étape 06: Col du Grand-Saint-Bernard
 - Étape 07: Martigny
