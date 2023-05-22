@@ -17,7 +17,7 @@
 338.6 km
 
 ## Lien Calimoto
-https://calimoto.com/calimotour/menton-→-col-saint-jean-r-P0EAK2Ygc1
+https://calimoto.com/calimotour/rgp-jour-4-r-eH06oynMzY
 
 # Bonus
 ## Ittinéraire:
