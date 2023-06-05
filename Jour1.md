@@ -1,8 +1,7 @@
 # Road book
-
 ## Ittinéraire:
 - **Départ : Domicile**
-- Metting : Forel (Station-shop Jubin) : 46.52953920748138, 6.7698977799827835
+- Meeting : Forel (Station-shop Jubin) : 46.52953920748138, 6.7698977799827835
 - Étape 01: KM 0 à Thonon (46.373212, 6.478129)
 - Étape 02: La Baume
 - Étape 03: Les Gets
@@ -21,7 +20,7 @@
 256 km (depuis Aumont)
 
 ## Lien Calimoto
-https://calimoto.com/calimotour/rga-jour-1-r-tkofsgu1uK
+https://calimoto.com/calimotour/rga-jour-1-r-mD9mUM8rVs
 
 # Bonus
 ## Ittinéraire:
