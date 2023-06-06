@@ -30,9 +30,16 @@ x km
 ## Lien Calimoto
 https://calimoto.com/xxx
 
-# Hôtel
-- Nom:
-- Adresse:
+# Hôtel 2 étoiles
+- Nom: Hôtel Le Savoie
+- Adresse: 23 Avenue Jean Jaurès, 73200 Albertville, France
 - Téléphone:
-- Tarif:
+- Tarif: 70 CHF lit jumeaux
+- Site web:
+
+# Hôtel 1 étoile
+- Nom: Fasthotel Albertville
+- Adresse: 780 Chemin des Trois Poiriers, 73200 Albertville, France 
+- Téléphone:
+- Tarif: 49 CHF lit jumeaux
 - Site web:

@@ -32,9 +32,3 @@ x km
 ## Lien Calimoto
 https://calimoto.com/xxx
 
-# Hôtel
-- Nom:
-- Adresse:
-- Téléphone:
-- Tarif:
-- Site web:

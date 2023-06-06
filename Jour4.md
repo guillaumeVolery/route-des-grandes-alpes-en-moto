@@ -33,8 +33,8 @@ x km
 https://calimoto.com/xxx
 
 # Hôtel
-- Nom:
-- Adresse:
+- Nom: Hôtel Espace
+- Adresse: Sta de Saint-Jean, 04140 Montclar, France
 - Téléphone:
-- Tarif:
-- Site web:
+- Tarif: 72 CHF chambre double sur leur site
+- Site web: https://www.secure-direct-hotel-booking.com/module_booking_engine/index.php?nb_adulte=2&nb_enfant=0&language=fr&id_etab=7573e7d6016bf74da29a51d9c32cb591&ad=2023-06-23&nb_nuit=1&currency=CHF
