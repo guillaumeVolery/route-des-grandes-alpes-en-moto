@@ -34,3 +34,6 @@ https://calimoto.com/calimotour/rga-jour-2-r-RJ12LikqI0
 - Téléphone: +33 (0)4 92 50 16 20
 - Tarif: Chambre double à partir de 120 €
 - Site web: https://www.lamaisonduguil.com/hautes-alpes/accueil.php
+
+Numéro de réservation : 44013881
+Tarif 120€ avec petit dej
