@@ -2,8 +2,8 @@
 
 ## Ittinéraire:
 - **Départ : Beaufort**
-- Étape 01: Albertville
-- Étape 02: Moûtiers
+- ~~Étape 01: Albertville~~
+- ~~Étape 02: Moûtiers~~
 - Étape 03: Bourg-Saint-Maurice
 - Étape 04: [Col de l'Iseran (2764 m)](https://www.routedesgrandesalpes.com/grands-cols/col-iseran)
 - Étape 06: [Col du Télégraphe (1566 m)](https://www.routedesgrandesalpes.com/grands-cols/col-du-telegraphe)
@@ -16,7 +16,7 @@
 320 km
 
 ## Lien Calimoto
-https://calimoto.com/calimotour/rga-jour-2-r-RJ12LikqI0
+https://m.calimoto.com/r/inZPbrd3vJ
 
 # Bonus
 ## Ittinéraire:
