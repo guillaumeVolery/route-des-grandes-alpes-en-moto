@@ -22,16 +22,8 @@
 ## Lien Calimoto
 https://calimoto.com/calimotour/rga-jour-3-r-dX9N2ODoAp
 
-# Hôtel 1
-- Nom: Hotel Le Grand Cap (2.8km de Menton)
-- Adresse: 173 avenue de la Plage, Roquebrune-Cap-Martin, Alpes-Maritimes, 06190
-- Téléphone:
-- Tarif: 90 CHF Chambre double
-- Site web:
-
-# Hôtel 2
-- Hotel Riva Art & Spa
-- 600 promenade du soleil, Menton, Alpes-Maritimes, 6500
-- Téléphone:
-- Tarif: 164 CHF Chambre double vue sur mer
-- Site web:
+# Hôtel 
+- Hôtel de Londres
+- Adresse: 15 Avenue Carnot, 06500, Menton
+- Numero de réservation: 2218362878
+- Code secret: 1416
