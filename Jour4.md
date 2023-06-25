@@ -17,7 +17,7 @@
 338.6 km
 
 ## Lien Calimoto
-https://calimoto.com/calimotour/rgp-jour-4-r-eH06oynMzY
+https://m.calimoto.com/r/qLtMbauoQh
 
 # Bonus
 ## Ittinéraire:
