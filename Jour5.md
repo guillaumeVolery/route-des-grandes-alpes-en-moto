@@ -15,7 +15,7 @@
 327.9 km
 
 ## Lien Calimoto
-https://calimoto.com/calimotour/rga-jour-5-r-isA2Zghszi
+https://m.calimoto.com/r/8b2zgFdWYq
 
 # Bonus
 ## Ittinéraire:
